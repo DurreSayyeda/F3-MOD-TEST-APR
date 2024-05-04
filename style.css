@@ -1,0 +1,56 @@
+*{
+
+background: #1a1a1c;
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 200;
+        line-height: 28px;
+        text-align: left;
+}
+h1 {
+    margin-top: 150px;
+        color: #dddddd;
+        text-align: center;
+      }
+.container {
+  max-width: 900px;
+  margin: 20px auto;
+  margin-top: 10px;
+  padding: 0 20px;
+  background: #1a1a1c;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  
+}
+
+th, td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+  color: white;
+}
+
+th {
+  background-color: #1a1a1c;
+}
+
+input[type="text"] {
+  padding: 10px;
+  margin-bottom: 10px;
+  background: #1a1a1c;
+  color: white;
+  width: 40%;
+  
+}
+
+ 
+button{
+  padding: 10px;
+  margin-bottom: 10px;
+  background: #1a1a1c;
+  color: white;
+  cursor: pointer;
+}
